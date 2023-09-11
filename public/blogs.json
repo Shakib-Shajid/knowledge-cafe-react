@@ -1,0 +1,44 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://ibb.co/v34ZBXy",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/bJH6MVp/boy1.png",
+        "posted_date": "2023-09-11",
+        "reading_time": 120,
+        "hashtags": ["Fiction", "Classic", "Gardening"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://ibb.co/Qd9KHd7",
+        "title": "Lost in Space",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/q7SwPkc/boy2.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 90,
+        "hashtags": ["ScienceFiction", "Adventure", "Exploration"]
+    },
+    {
+        "id": 13579,
+        "cover": "https://ibb.co/4JQBKMw",
+        "title": "The Mystery of Oakwood Manor",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/XsTgXc1/girl1.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 75,
+        "hashtags": ["Mystery", "Suspense", "Detective"]
+    },
+    {
+        "id": 24680,
+        "cover": "https://ibb.co/SVpFK86",
+        "title": "Cooking with Chef Julia",
+        "author": "Julia Martinez",
+        "author_img": "https://i.ibb.co/Jrhh5pF/girl2.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 60,
+        "hashtags": ["Cookbook", "Recipes", "Culinary"]
+    }
+
+]
+
