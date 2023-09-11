@@ -1,40 +1,40 @@
 [
     {
         "id": 12345,
-        "cover": "https://ibb.co/v34ZBXy",
+        "cover": "https://i.ibb.co/gv464SC/1.jpg",
         "title": "The Secret Garden",
         "author": "Jane Doe",
-        "author_img": "https://i.ibb.co/bJH6MVp/boy1.png",
+        "author_img": "https://i.ibb.co/pdDWkQ1/boy1.png",
         "posted_date": "2023-09-11",
         "reading_time": 120,
         "hashtags": ["Fiction", "Classic", "Gardening"]
     },
     {
         "id": 67890,
-        "cover": "https://ibb.co/Qd9KHd7",
+        "cover": "https://i.ibb.co/SKpQ8R6/2.png",
         "title": "Lost in Space",
         "author": "John Smith",
-        "author_img": "https://i.ibb.co/q7SwPkc/boy2.jpg",
+        "author_img": "https://i.ibb.co/0cCgyph/boy2.jpg",
         "posted_date": "2023-09-10",
         "reading_time": 90,
         "hashtags": ["ScienceFiction", "Adventure", "Exploration"]
     },
     {
         "id": 13579,
-        "cover": "https://ibb.co/4JQBKMw",
+        "cover": "https://i.ibb.co/D4Fbh2m/3.png",
         "title": "The Mystery of Oakwood Manor",
         "author": "Emily Johnson",
-        "author_img": "https://i.ibb.co/XsTgXc1/girl1.jpg",
+        "author_img": "https://i.ibb.co/GFKBkSY/girl1.jpg",
         "posted_date": "2023-09-09",
         "reading_time": 75,
         "hashtags": ["Mystery", "Suspense", "Detective"]
     },
     {
         "id": 24680,
-        "cover": "https://ibb.co/SVpFK86",
+        "cover": "https://i.ibb.co/qN1Q58q/4.jpg",
         "title": "Cooking with Chef Julia",
         "author": "Julia Martinez",
-        "author_img": "https://i.ibb.co/Jrhh5pF/girl2.jpg",
+        "author_img": "https://i.ibb.co/K02pCg9/girl2.jpg",
         "posted_date": "2023-09-08",
         "reading_time": 60,
         "hashtags": ["Cookbook", "Recipes", "Culinary"]
